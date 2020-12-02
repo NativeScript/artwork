@@ -14,18 +14,19 @@ NativeScript artwork
 | PNG | SVG |
 |:---:|:---:|
 | ![](logo/export/NativeScript%20Logo.png) | ![](logo/export/NativeScript%20Logo.svg) |
-| [](logo/export/NativeScript%20Logo.png) | [](logo/export/NativeScript%20Logo.svg) |
+| [PNG](logo/export/NativeScript%20Logo.png) | [SVG](logo/export/NativeScript%20Logo.svg) |
 
 ### 1024x1024 rounded logo
 
 | PNG | SVG |
 |:---:|:---:|
 | ![](logo/export/NativeScript%20Logo%20Rounded.png) | ![](logo/export/NativeScript%20Logo%20Rounded.svg) |
-| [](logo/export/NativeScript%20Logo%20Rounded.png) | [](logo/export/NativeScript%20Logo%20Rounded.svg) |
+| [PNG](logo/export/NativeScript%20Logo%20Rounded.png) | [SVG](logo/export/NativeScript%20Logo%20Rounded.svg) |
 
 ### 1024x1024 transparent logo
 
 | PNG | SVG |
 |:---:|:---:|
+| | |
 | ![](logo/export/NativeScript%20Logo%20Transparent.png) | ![](logo/export/NativeScript%20Logo%20Transparent.svg) |
-| [](logo/export/NativeScript%20Logo%20Transparent.png) | [](logo/export/NativeScript%20Logo%20Transparent.svg) |
+| [PNG](logo/export/NativeScript%20Logo%20Transparent.png) | [SVG](logo/export/NativeScript%20Logo%20Transparent.svg) |
