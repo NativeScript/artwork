@@ -13,14 +13,14 @@ NativeScript artwork
 
 | PNG | SVG |
 |:---:|:---:|
-| ![](logo/export/NativeScript%20Logo.png) | ![](logo/export/NativeScript%20Logo.svg) |
+| <img width="400px" src="logo/export/NativeScript%20Logo.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo.svg"/> |
 | [PNG](logo/export/NativeScript%20Logo.png) | [SVG](logo/export/NativeScript%20Logo.svg) |
 
 ### 1024x1024 rounded logo
 
 | PNG | SVG |
 |:---:|:---:|
-| ![](logo/export/NativeScript%20Logo%20Rounded.png) | ![](logo/export/NativeScript%20Logo%20Rounded.svg) |
+| <img width="400px" src="logo/export/NativeScript%20Logo%20Rounded.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo%20Rounded.svg"/> |
 | [PNG](logo/export/NativeScript%20Logo%20Rounded.png) | [SVG](logo/export/NativeScript%20Logo%20Rounded.svg) |
 
 ### 1024x1024 transparent logo
@@ -28,7 +28,7 @@ NativeScript artwork
 | PNG | SVG |
 |:---:|:---:|
 | | |
-| ![](logo/export/NativeScript%20Logo%20Transparent.png) | ![](logo/export/NativeScript%20Logo%20Transparent.svg) |
+| <img width="400px" src="logo/export/NativeScript%20Logo%20Transparent.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo%20Transparent.svg"/> |
 | [PNG](logo/export/NativeScript%20Logo%20Transparent.png) | [SVG](logo/export/NativeScript%20Logo%20Transparent.svg) |
 
 ### 1024x1024 inverted square logo
@@ -36,7 +36,7 @@ NativeScript artwork
 | PNG | SVG |
 |:---:|:---:|
 | | |
-| ![](logo/export/NativeScript%20Logo%20Inverted.png) | ![](logo/export/NativeScript%20Logo%20Inverted.svg) |
+| <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted.svg"/> |
 | [PNG](logo/export/NativeScript%20Logo%20Inverted.png) | [SVG](logo/export/NativeScript%20Logo%20Inverted.svg) |
 
 ### 1024x1024 inverted rounded logo
@@ -44,7 +44,7 @@ NativeScript artwork
 | PNG | SVG |
 |:---:|:---:|
 | | |
-| ![](logo/export/NativeScript%20Logo%20Inverted%20Rounded.png) | ![](logo/export/NativeScript%20Logo%20Inverted%20Rounded.svg) |
+| <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted%20Rounded.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted%20Rounded.svg"/> |
 | [PNG](logo/export/NativeScript%20Logo%20Inverted%20Rounded.png) | [SVG](logo/export/NativeScript%20Logo%20Inverted%20Rounded.svg) |
 
 ### 1024x1024 inverted transparent logo
@@ -52,5 +52,5 @@ NativeScript artwork
 | PNG | SVG |
 |:---:|:---:|
 | | |
-| ![](logo/export/NativeScript%20Logo%20Inverted%20Transparent.png) | ![](logo/export/NativeScript%20Logo%20Inverted%20Transparent.svg) |
+| <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted%20Transparent.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted%20Transparent.svg"/> |
 | [PNG](logo/export/NativeScript%20Logo%20Inverted%20Transparent.png) | [SVG](logo/export/NativeScript%20Logo%20Inverted%20Transparent.svg) |
