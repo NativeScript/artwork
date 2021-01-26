@@ -12,8 +12,11 @@ const exportedLogos = readdirSync(LOGO_EXPORT_PATH)
 const svgLogos = exportedLogos.filter(filename => filename.endsWith('.svg'))
 
 let table = `
-| Preview | Name  | Download  |
-| ------- | ----- | --------- |\n`
+<table>
+<thead>
+    <th>Logo</th>
+    <th>Download</th>
+</thead>\n`
 
 for(const logo of svgLogos) {
     const name = logo.replace('.svg', '').replace(/_/g, ' ')
@@ -27,12 +30,13 @@ for(const logo of svgLogos) {
     
     const row = [
         `<img style="width: 100px;" src="${svgURL}" />`,
-        `${name}`,
-        `[Download SVG](${svgURL})<br>[Download PNG](${pngURL})`
-    ].join(' | ')
+        `[Download SVG](${svgURL})<br>\n[Download PNG](${pngURL})`
+    ].map(e => `<td>\n\n${e}\n\n</td>`).join('\n')
 
-    table += `| ${row} |\n`
+    table += `<tr>\n<td colspan="2">\n${name}\n</td>\n</tr>\n`
+    table += `<tr>\n${row}\n</tr>\n`
 }
+table += `</table>`
 
 const readmeContent = readFileSync(README_PATH).toString();
 
@@ -40,5 +44,6 @@ const updatedReadmeContent = `
 ${readmeContent.substr(0, readmeContent.indexOf(LOGO_TABLE_START) + LOGO_TABLE_START.length)}
 ${table}
 ${readmeContent.substr(readmeContent.indexOf(LOGO_TABLE_END), readmeContent.length)}
-`
+`.trim()
+
 writeFileSync(README_PATH, updatedReadmeContent)
