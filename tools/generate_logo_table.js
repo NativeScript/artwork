@@ -30,8 +30,8 @@ for(const logo of svgLogos) {
     
     const row = [
         `<img style="width: 100px;" src="${svgURL}" />`,
-        `[Download SVG](${svgURL})<br>\n[Download PNG](${pngURL})`
-    ].map(e => `<td>\n\n${e}\n\n</td>`).join('\n')
+        `\n[Download SVG](${svgURL})<br>\n[Download PNG](${pngURL})`
+    ].map(e => `<td>\n${e}\n</td>`).join('\n')
 
     table += `<tr>\n<td colspan="2">\n${name}\n</td>\n</tr>\n`
     table += `<tr>\n${row}\n</tr>\n`

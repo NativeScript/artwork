@@ -33,15 +33,12 @@ NativeScript Logo Blue Transparent
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_Blue_Transparent.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_Blue_Transparent.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_Blue_Transparent.png)
-
 </td>
 </tr>
 <tr>
@@ -51,15 +48,12 @@ NativeScript Logo Blue White
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_Blue_White.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_Blue_White.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_Blue_White.png)
-
 </td>
 </tr>
 <tr>
@@ -69,15 +63,12 @@ NativeScript Logo Blue White Rounded
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_Blue_White_Rounded.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_Blue_White_Rounded.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_Blue_White_Rounded.png)
-
 </td>
 </tr>
 <tr>
@@ -87,15 +78,12 @@ NativeScript Logo Transparent White
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_Transparent_White.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_Transparent_White.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_Transparent_White.png)
-
 </td>
 </tr>
 <tr>
@@ -105,15 +93,12 @@ NativeScript Logo Transparent White Rounded
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_Transparent_White_Rounded.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_Transparent_White_Rounded.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_Transparent_White_Rounded.png)
-
 </td>
 </tr>
 <tr>
@@ -123,15 +108,12 @@ NativeScript Logo White Blue
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_White_Blue.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_White_Blue.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_White_Blue.png)
-
 </td>
 </tr>
 <tr>
@@ -141,15 +123,12 @@ NativeScript Logo White Blue Rounded
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_White_Blue_Rounded.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_White_Blue_Rounded.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_White_Blue_Rounded.png)
-
 </td>
 </tr>
 <tr>
@@ -159,15 +138,12 @@ NativeScript Logo White Transparent
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_White_Transparent.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_White_Transparent.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_White_Transparent.png)
-
 </td>
 </tr>
 <tr>
@@ -177,15 +153,12 @@ NativeScript Logo Wide Blue White Rounded White
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_Wide_Blue_White_Rounded_White.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_Wide_Blue_White_Rounded_White.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_Wide_Blue_White_Rounded_White.png)
-
 </td>
 </tr>
 <tr>
@@ -195,15 +168,12 @@ NativeScript Logo Wide Transparent White Rounded White
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_Wide_Transparent_White_Rounded_White.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_Wide_Transparent_White_Rounded_White.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_Wide_Transparent_White_Rounded_White.png)
-
 </td>
 </tr>
 <tr>
@@ -213,15 +183,12 @@ NativeScript Logo Wide White Blue Rounded Blue
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_Blue.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_Blue.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_Blue.png)
-
 </td>
 </tr>
 <tr>
@@ -231,15 +198,12 @@ NativeScript Logo Wide White Blue Rounded White
 </tr>
 <tr>
 <td>
-
 <img style="width: 100px;" src="logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_White.svg" />
-
 </td>
 <td>
 
 [Download SVG](logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_White.svg)<br>
 [Download PNG](logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_White.png)
-
 </td>
 </tr>
 </table>
