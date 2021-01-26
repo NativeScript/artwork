@@ -208,3 +208,35 @@ NativeScript Logo Wide White Blue Rounded White
 </tr>
 </table>
 <!-- LOGO_TABLE_END -->
+
+### The naming convention used for the exported files:
+```markdown
+NativeScript_Logo_Wide_Transparent_White_Rounded_White
+^^^^^^^^^^^^^^^^^
+> A static prefix
+
+
+NativeScript_Logo_Wide_Transparent_White_Rounded_White
+                  ^^^^ 
+> (Optional) size indicator
+
+
+NativeScript_Logo_Wide_Transparent_White_Rounded_White
+                       ^^^^^^^^^^^
+> Color of the letter "N" in the logo
+
+
+NativeScript_Logo_Wide_Transparent_White_Rounded_White
+                                   ^^^^^
+> Color of the background around the letter "N"
+
+
+NativeScript_Logo_Wide_Transparent_White_Rounded_White
+                                         ^^^^^^^
+> (Optional) shape of the logo
+
+
+NativeScript_Logo_Wide_Transparent_White_Rounded_White
+                                                 ^^^^^
+> (Optional) Color of the text "NativeScript" (where aplicable)
+```
