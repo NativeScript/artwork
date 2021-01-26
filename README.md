@@ -1,3 +1,8 @@
+ 
+ 
+ 
+ 
+ 
 # artwork
 NativeScript artwork
 
@@ -13,74 +18,27 @@ NativeScript artwork
 |------|------|
 | NativeScript Logo | `Inter Black` | `#65ADF1`
 
-## Logo
+## Logo Variants
 
-### 1024x1024 square logo
+There are different variants of the NativeScript logo available in png and svg formats.
 
-| PNG | SVG |
-|:---:|:---:|
-| <img width="400px" src="logo/export/NativeScript%20Logo.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo.svg"/> |
-| [PNG](logo/export/NativeScript%20Logo.png) | [SVG](logo/export/NativeScript%20Logo.svg) |
+<!-- run `node tools/generate_logo_table.js` to re-generate table. -->
+<!-- DO NOT EDIT MANUALLY -->
+<!-- LOGO_TABLE_START -->
 
-### 1024x1024 rounded logo
+| Preview | Name  | Download  |
+| ------- | ----- | --------- |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_Blue_Transparent.svg" /> | NativeScript Logo Blue Transparent | [Download SVG](logo/export/NativeScript_Logo_Blue_Transparent.svg)<br>[Download PNG](logo/export/NativeScript_Logo_Blue_Transparent.png) |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_Blue_White.svg" /> | NativeScript Logo Blue White | [Download SVG](logo/export/NativeScript_Logo_Blue_White.svg)<br>[Download PNG](logo/export/NativeScript_Logo_Blue_White.png) |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_Blue_White_Rounded.svg" /> | NativeScript Logo Blue White Rounded | [Download SVG](logo/export/NativeScript_Logo_Blue_White_Rounded.svg)<br>[Download PNG](logo/export/NativeScript_Logo_Blue_White_Rounded.png) |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_Transparent_White.svg" /> | NativeScript Logo Transparent White | [Download SVG](logo/export/NativeScript_Logo_Transparent_White.svg)<br>[Download PNG](logo/export/NativeScript_Logo_Transparent_White.png) |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_Transparent_White_Rounded.svg" /> | NativeScript Logo Transparent White Rounded | [Download SVG](logo/export/NativeScript_Logo_Transparent_White_Rounded.svg)<br>[Download PNG](logo/export/NativeScript_Logo_Transparent_White_Rounded.png) |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_White_Blue.svg" /> | NativeScript Logo White Blue | [Download SVG](logo/export/NativeScript_Logo_White_Blue.svg)<br>[Download PNG](logo/export/NativeScript_Logo_White_Blue.png) |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_White_Blue_Rounded.svg" /> | NativeScript Logo White Blue Rounded | [Download SVG](logo/export/NativeScript_Logo_White_Blue_Rounded.svg)<br>[Download PNG](logo/export/NativeScript_Logo_White_Blue_Rounded.png) |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_White_Transparent.svg" /> | NativeScript Logo White Transparent | [Download SVG](logo/export/NativeScript_Logo_White_Transparent.svg)<br>[Download PNG](logo/export/NativeScript_Logo_White_Transparent.png) |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_Wide_Blue_White_Rounded_White.svg" /> | NativeScript Logo Wide Blue White Rounded White | [Download SVG](logo/export/NativeScript_Logo_Wide_Blue_White_Rounded_White.svg)<br>[Download PNG](logo/export/NativeScript_Logo_Wide_Blue_White_Rounded_White.png) |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_Wide_Transparent_White_Rounded_White.svg" /> | NativeScript Logo Wide Transparent White Rounded White | [Download SVG](logo/export/NativeScript_Logo_Wide_Transparent_White_Rounded_White.svg)<br>[Download PNG](logo/export/NativeScript_Logo_Wide_Transparent_White_Rounded_White.png) |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_Blue.svg" /> | NativeScript Logo Wide White Blue Rounded Blue | [Download SVG](logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_Blue.svg)<br>[Download PNG](logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_Blue.png) |
+| <img style="width: 100px;" src="logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_White.svg" /> | NativeScript Logo Wide White Blue Rounded White | [Download SVG](logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_White.svg)<br>[Download PNG](logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_White.png) |
 
-| PNG | SVG |
-|:---:|:---:|
-| <img width="400px" src="logo/export/NativeScript%20Logo%20Rounded.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo%20Rounded.svg"/> |
-| [PNG](logo/export/NativeScript%20Logo%20Rounded.png) | [SVG](logo/export/NativeScript%20Logo%20Rounded.svg) |
-
-### 1024x1024 transparent logo
-
-| PNG | SVG |
-|:---:|:---:|
-| | |
-| <img width="400px" src="logo/export/NativeScript%20Logo%20Transparent.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo%20Transparent.svg"/> |
-| [PNG](logo/export/NativeScript%20Logo%20Transparent.png) | [SVG](logo/export/NativeScript%20Logo%20Transparent.svg) |
-
-### 1024x1024 inverted square logo
-
-| PNG | SVG |
-|:---:|:---:|
-| | |
-| <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted.svg"/> |
-| [PNG](logo/export/NativeScript%20Logo%20Inverted.png) | [SVG](logo/export/NativeScript%20Logo%20Inverted.svg) |
-
-### 1024x1024 inverted rounded logo
-
-| PNG | SVG |
-|:---:|:---:|
-| | |
-| <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted%20Rounded.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted%20Rounded.svg"/> |
-| [PNG](logo/export/NativeScript%20Logo%20Inverted%20Rounded.png) | [SVG](logo/export/NativeScript%20Logo%20Inverted%20Rounded.svg) |
-
-### 1024x1024 inverted transparent logo
-
-| PNG | SVG |
-|:---:|:---:|
-| | |
-| <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted%20Transparent.png"/> | <img width="400px" src="logo/export/NativeScript%20Logo%20Inverted%20Transparent.svg"/> |
-| [PNG](logo/export/NativeScript%20Logo%20Inverted%20Transparent.png) | [SVG](logo/export/NativeScript%20Logo%20Inverted%20Transparent.svg) |
-
-### wide logo
-
-| PNG | SVG |
-|:---:|:---:|
-| | |
-| <img width="400px" src="logo/export/NativeScript%20Wide%20Logo.png"/> | <img width="400px" src="logo/export/NativeScript%20Wide%20Logo.svg"/> |
-| [PNG](logo/export/NativeScript%20Wide%20Logo.png) | [SVG](logo/export/NativeScript%20Wide%20Logo.svg) |
-
-### wide logo inverted
-
-| PNG | SVG |
-|:---:|:---:|
-| | |
-| <img width="400px" src="logo/export/NativeScript%20Wide%20Logo%20Inverted.png"/> | <img width="400px" src="logo/export/NativeScript%20Wide%20Logo%20Inverted.svg"/> |
-| [PNG](logo/export/NativeScript%20Wide%20Logo%20Inverted.png) | [SVG](logo/export/NativeScript%20Wide%20Logo%20Inverted.svg) |
-
-### wide logo light
-
-| PNG | SVG |
-|:---:|:---:|
-| | |
-| <img width="400px" src="logo/export/NativeScript%20Wide%20Logo%20Light.png"/> | <img width="400px" src="logo/export/NativeScript%20Wide%20Logo%20Light.svg"/> |
-| [PNG](logo/export/NativeScript%20Wide%20Logo%20Light.png) | [SVG](logo/export/NativeScript%20Wide%20Logo%20Light.svg) |
+<!-- LOGO_TABLE_END -->
