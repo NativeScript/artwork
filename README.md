@@ -23,9 +23,12 @@ There are different variants of the NativeScript logo available in png and svg f
 
 <table>
 <thead>
-    <th>Logo</th>
-    <th>Download</th>
+    <tr>
+        <th>Logo</th>
+        <th>Download</th>
+    </tr>
 </thead>
+<tbody>
 <tr>
 <td colspan="2">
 NativeScript Logo Blue Transparent
@@ -206,6 +209,7 @@ NativeScript Logo Wide White Blue Rounded White
 [Download PNG](logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_White.png)
 </td>
 </tr>
+</tbody>
 </table>
 <!-- LOGO_TABLE_END -->
 

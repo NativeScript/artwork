@@ -14,9 +14,12 @@ const svgLogos = exportedLogos.filter(filename => filename.endsWith('.svg'))
 let table = `
 <table>
 <thead>
-    <th>Logo</th>
-    <th>Download</th>
-</thead>\n`
+    <tr>
+        <th>Logo</th>
+        <th>Download</th>
+    </tr>
+</thead>
+<tbody>\n`
 
 for(const logo of svgLogos) {
     const name = logo.replace('.svg', '').replace(/_/g, ' ')
@@ -36,7 +39,7 @@ for(const logo of svgLogos) {
     table += `<tr>\n<td colspan="2">\n${name}\n</td>\n</tr>\n`
     table += `<tr>\n${row}\n</tr>\n`
 }
-table += `</table>`
+table += `</tbody>\n</table>`
 
 const readmeContent = readFileSync(README_PATH).toString();
 
