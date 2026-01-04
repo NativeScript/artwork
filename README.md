@@ -6,12 +6,13 @@ NativeScript artwork
 | Name | RGB | HEX |
 |------|-----|-----|
 | NativeScript Blue | `rgb(101, 173, 241)` | `#65ADF1`
+| NativeScript Dark | `rgb(31, 41, 55)` | `#1F2937`
 
 ## Font
 
 | Name | Font |
 |------|------|
-| NativeScript Logo | `Inter Black` | `#65ADF1`
+| NativeScript Logo | `Inter Black` 
 
 ## Logo Variants
 
@@ -44,6 +45,22 @@ NativeScript Logo Blue Transparent
 [Download PNG](logo/export/NativeScript_Logo_Blue_Transparent.png)
 </td>
 </tr>
+
+<tr>
+<td colspan="2">
+NativeScript Logo Dark Transparent
+</td>
+</tr>
+<tr>
+<td>
+<img style="width: 100px;" src="logo/export/NativeScript_Logo_Dark_Transparent.svg" />
+</td>
+<td>
+
+[Download SVG](logo/export/NativeScript_Logo_Dark_Transparent.svg)<br>
+[Download PNG](logo/export/NativeScript_Logo_Dark_Transparent.png)
+</td>
+</tr>
 <tr>
 <td colspan="2">
 NativeScript Logo Blue White
@@ -59,6 +76,22 @@ NativeScript Logo Blue White
 [Download PNG](logo/export/NativeScript_Logo_Blue_White.png)
 </td>
 </tr>
+<tr>
+<td colspan="2">
+NativeScript Logo Dark White
+</td>
+</tr>
+<tr>
+<td>
+<img style="width: 100px;" src="logo/export/NativeScript_Logo_Dark_White.svg" />
+</td>
+<td>
+
+[Download SVG](logo/export/NativeScript_Logo_Dark_White.svg)<br>
+[Download PNG](logo/export/NativeScript_Logo_Dark_White.png)
+</td>
+</tr>
+
 <tr>
 <td colspan="2">
 NativeScript Logo Blue White Rounded
